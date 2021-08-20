@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AramisScabott
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning godot and python
+- 💞️ I’m looking to collaborate on a godot game project
+- 📫 How to reach me: aramis_scabott@protonmail.com
